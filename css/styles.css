@@ -12,10 +12,6 @@
   padding-right: 10px;
 }
 
-img {
-  height: 200px;
-  width: 200px;
-}
 
 #projects-panel {
   background-color: rgba(2,211,255,0.1);
@@ -46,5 +42,14 @@ span {
 #logos {
   width: 80px;
   height: 80px;
-  align-content: center;
+}
+
+#logosl {
+  width: 160px;
+  height: 80px;
+}
+
+.media-object {
+  height: 64px;
+  width: 64px;
 }
