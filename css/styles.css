@@ -17,8 +17,8 @@ img {
   width: 200px;
 }
 
-.panel-body {
-  background-color: lightblue;
+#projects-panel {
+  background-color: rgba(2,211,255,0.1);
 }
 
 span {
@@ -28,4 +28,13 @@ span {
 
 .skills {
   color:red;
+}
+
+#about-panel {
+  background-color: rgba(135,255,165,0.1);
+}
+
+#bginfo {
+  background-color: rgba(255,104,115,0.1);
+
 }
