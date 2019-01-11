@@ -26,8 +26,8 @@ The image in the About Me section doesn't stay within the panel when viewed on a
 
 ## Support and contact details
 
-If you have any questions or concerns about the content of this README or the website, please contact:
-Chris Breaux
+If you have any questions or concerns about the content of this README or the website, please contact the author at:  
+
 christopherjbreaux@gmail.com
 
 ## Technologies Used
