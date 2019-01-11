@@ -20,3 +20,8 @@ img {
 .panel-body {
   background-color: lightblue;
 }
+
+span {
+  font-weight: bold;
+  font-style: italic;
+}
