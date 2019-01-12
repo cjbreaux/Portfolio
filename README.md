@@ -23,12 +23,18 @@ For best results, please use a Chrome browser.
 ## Known Bugs
 
 The image in the About Me section doesn't stay within the panel when viewed on a small screen or window.
+Bottom panel is mis-aligned.
 
 ## Support and contact details
 
 If you have any questions or concerns about the content of this README or the website, please contact the author at:  
 
 christopherjbreaux@gmail.com
+
+You can find additional projects by the author at:
+
+https://github.com/cjbreaux/
+
 
 ## Technologies Used
 
