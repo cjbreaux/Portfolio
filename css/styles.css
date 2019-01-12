@@ -53,3 +53,7 @@ span {
   height: 64px;
   width: 64px;
 }
+
+.media p {    /* cascading */
+ font-family: cursive;
+}
