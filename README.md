@@ -8,6 +8,9 @@
 
 This is a personal portfolio website created at the end of the first week of the Intro to Programming course at Epicodus. It was created with the intention of demonstrating the application of HTML tags, css styling and bootstrap formatting as covered in the first week as well as showcasing some of previously created projects.
 
+You can view the page by following the link below:
+https://cjbreaux.github.io/Portfolio/
+
 ## Setup/Installation Requirements
 
 * Open Terminal
