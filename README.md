@@ -1,4 +1,4 @@
-# Peronal Portfolio
+# Personal Portfolio
 
 #### First Independpent Project from Epicodus, January 11, 2019
 
